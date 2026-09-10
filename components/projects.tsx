@@ -16,33 +16,33 @@ const projects = [
     githubUrl: null,
     liveUrl: "https://pinnaclepremierlimo.com/",
   },
-  {
-    title: "SNF Wound Care",
-    description:
-      "A US-based skilled nursing facility platform for managing wound care, built with a robust Next.js frontend and Laravel backend.",
-    image: "/snf-wound-care.png",
-    technologies: ["Next.js", "Laravel"],
-    githubUrl: null,
-    liveUrl: null,
-  },
-  {
-    title: "eHealth Jamaica",
-    description:
-      "An Electronic Medical Record (EMR) system for healthcare providers, featuring secure data management and patient records.",
-    image: "/ehealth-jamaica.png",
-    technologies: ["Angular", "Laravel"],
-    githubUrl: null,
-    liveUrl: null,
-  },
-  {
-    title: "eHealth Jamaica Meeting Portal",
-    description:
-      "A video call service connecting patients and doctors, built with real-time communication features using WebRTC.",
-    image: "/ehealth-meeting-portal.png",
-    technologies: ["React", "Firebase", "WebRTC"],
-    githubUrl: null,
-    liveUrl: null,
-  },
+  // {
+  //   title: "SNF Wound Care",
+  //   description:
+  //     "A US-based skilled nursing facility platform for managing wound care, built with a robust Next.js frontend and Laravel backend.",
+  //   image: "/snf-wound-care.png",
+  //   technologies: ["Next.js", "Laravel"],
+  //   githubUrl: null,
+  //   liveUrl: null,
+  // },
+  // {
+  //   title: "eHealth Jamaica",
+  //   description:
+  //     "An Electronic Medical Record (EMR) system for healthcare providers, featuring secure data management and patient records.",
+  //   image: "/ehealth-jamaica.png",
+  //   technologies: ["Angular", "Laravel"],
+  //   githubUrl: null,
+  //   liveUrl: null,
+  // },
+  // {
+  //   title: "eHealth Jamaica Meeting Portal",
+  //   description:
+  //     "A video call service connecting patients and doctors, built with real-time communication features using WebRTC.",
+  //   image: "/ehealth-meeting-portal.png",
+  //   technologies: ["React", "Firebase", "WebRTC"],
+  //   githubUrl: null,
+  //   liveUrl: null,
+  // },
   {
     title: "ZaikaRoots",
     description:
